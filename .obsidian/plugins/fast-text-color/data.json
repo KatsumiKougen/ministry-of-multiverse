@@ -1,0 +1,365 @@
+{
+  "themes": [
+    {
+      "colors": [
+        {
+          "color": "#f03333",
+          "id": "red",
+          "keybind": "R",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-red"
+        },
+        {
+          "color": "#57d016",
+          "id": "green",
+          "keybind": "G",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-green"
+        },
+        {
+          "color": "#2c38e8",
+          "id": "blue",
+          "keybind": "B",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-blue"
+        },
+        {
+          "color": "#94ffea",
+          "id": "cyan",
+          "keybind": "C",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-cyan"
+        },
+        {
+          "color": "#e93fe3",
+          "id": "magenta",
+          "keybind": "M",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-magenta"
+        },
+        {
+          "color": "#f0ea38",
+          "id": "yellow",
+          "keybind": "Y",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-yellow"
+        },
+        {
+          "color": "#637274",
+          "id": "grey",
+          "keybind": "F",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-grey"
+        },
+        {
+          "color": "#f07a19",
+          "id": "orange",
+          "keybind": "U",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-orange"
+        },
+        {
+          "color": "#ffffff",
+          "id": "underline",
+          "keybind": "Q",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "underline",
+            "index": 1
+          },
+          "className": "ftc-color-default-underline"
+        },
+        {
+          "color": "#ffffff",
+          "id": "overline",
+          "keybind": "W",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "normal",
+            "index": 0
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "overline",
+            "index": 2
+          },
+          "className": "ftc-color-default-overline"
+        },
+        {
+          "color": "#ffffff",
+          "id": "smallcaps",
+          "keybind": "E",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "small_caps",
+            "index": 2
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "none",
+            "index": 0
+          },
+          "className": "ftc-color-default-smallcaps"
+        },
+        {
+          "color": "#ffffff",
+          "id": "smallcaps-underline",
+          "keybind": "Z",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "small_caps",
+            "index": 2
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "underline",
+            "index": 1
+          },
+          "className": "ftc-color-default-smallcaps-underline"
+        },
+        {
+          "color": "#ffffff",
+          "id": "smallcaps-overline",
+          "keybind": "X",
+          "italic": false,
+          "bold": false,
+          "cap_mode": {
+            "states": [
+              "normal",
+              "all_caps",
+              "small_caps"
+            ],
+            "state": "small_caps",
+            "index": 2
+          },
+          "line_mode": {
+            "states": [
+              "none",
+              "underline",
+              "overline",
+              "line-through"
+            ],
+            "state": "overline",
+            "index": 2
+          },
+          "className": "ftc-color-default-smallcaps-overline"
+        }
+      ],
+      "name": "default"
+    }
+  ],
+  "themeIndex": 0,
+  "version": "3",
+  "interactiveDelimiters": true,
+  "useKeybindings": true,
+  "useNodeRebuilding": false
+}

@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "6c33b3f68a1c596a",
+    "type": "split",
+    "children": [
+      {
+        "id": "40849dcd6602e08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e8bc7c8ce7ba2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Main.TemporalCodex.EventJLFFWKMB6314"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e42bcccddaa2defa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f6ce089145e7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a1314b8a1528c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de3d7854cbeb17a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c057d210de7f4a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5902008fb512dc64",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c46bb8f321eb346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d923aa0f4b18e65e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main.TemporalCodex.EventJLFFWKMB6314"
+            }
+          },
+          {
+            "id": "d652cf151a8aab04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main.TemporalCodex.EventJLFFWKMB6314"
+            }
+          },
+          {
+            "id": "576ba086fde7a6da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50373c8043c50942",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "4e8bc7c8ce7ba2a8",
+  "lastOpenFiles": [
+    "Main.TemporalCodex.EventJLFFWKMB6314.md"
+  ]
+}
