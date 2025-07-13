@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e8bc7c8ce7ba2a8",
+            "id": "256f5e9faf7e927d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Main.TemporalCodex.EventJLFFWKMB6314"
+              "title": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance"
             }
           }
         ]
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314"
+              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,18 +161,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e8bc7c8ce7ba2a8",
+  "active": "256f5e9faf7e927d",
   "lastOpenFiles": [
-    "Main.TemporalCodex.EventJLFFWKMB6314.md"
+    "Main.TemporalCodex.EventJLFFWKMB6314.md",
+    "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md"
   ]
 }
