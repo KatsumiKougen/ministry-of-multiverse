@@ -6,10 +6,21 @@
 
 ^Block1
 
+* Nazi Germany (V-949)
+* League of Interdimensional Disruptors
+
+^Block2
+
 * SS-Standartenführer
 * SS-Gruppenführer
 
-^Block2
+^Block3
+
+* Waldemar Fegelein (brother)
+* Eva Braun (sister-in-law)
+* Adolf Hitler (brother-in-law)
+
+^Block4
 
 | Birth name                           | Hans Georg Otto Hermann Fegelein                                                              |
 | ------------------------------------ | --------------------------------------------------------------------------------------------- |
@@ -17,8 +28,8 @@
 | Species                              | ~~Human (*Homo sapiens*)~~ Human-derived                                                      |
 | Nickname(s)                          | ![[Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable#^Block1]] |
 | Born                                 | 30 October 1906<br>Kingdom of Bavaria, German Empire                                          |
-| Allegiance                           | Nazi Germany (V-949)                                                                          |
-| ^                                    | League of Interdimensional Disruptors                                                         |
-| Rank                                 | ![[Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable#^Block2]]                                                                           |
+| Allegiance                           | ![[Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable#^Block2]] |
+| Rank                                 | ![[Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable#^Block3]] |
+| Relations                            | ![[Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable#^Block4]] |
 
 ^Final
