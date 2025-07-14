@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein"
             }
-          },
-          {
-            "id": "441efe1b8968a3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transclusion/Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable"
-            }
           }
         ]
       }
@@ -184,12 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa49b33d6bf4f0dc",
+  "active": "e5a1314b8a1528c0",
   "lastOpenFiles": [
+    "Media/Logo.MMTSA.png",
+    "Media/Logo.MM.White.png",
+    "Media/Logo.MM.Black.png",
+    "Media/MMTSALogo.png",
+    "Media/MMLogoWhite.png",
+    "Media/MMLogoBlack.png",
+    "Media",
     "Transclusion/Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable.md",
+    "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
     "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
     "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
-    "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
     "Transclusion",
     "Note"
   ]
