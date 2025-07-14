@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "256f5e9faf7e927d",
+            "id": "aa49b33d6bf4f0dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "file": "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Main.TemporalCodex.EventJLFFWKMB6314"
+              "title": "Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein"
             }
           }
         ]
@@ -171,9 +171,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "256f5e9faf7e927d",
+  "active": "e5a1314b8a1528c0",
   "lastOpenFiles": [
-    "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
-    "Main.TemporalCodex.EventJLFFWKMB6314.md"
+    "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
+    "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
+    "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
+    "Transclusion",
+    "Note"
   ]
 }
