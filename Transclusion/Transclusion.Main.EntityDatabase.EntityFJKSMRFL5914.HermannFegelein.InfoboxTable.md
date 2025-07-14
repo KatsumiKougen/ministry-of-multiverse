@@ -1,24 +1,24 @@
-* Fegelarse
-* Fegelf\*ck
-* Master of Antics (self-proclaimed)
-* F-man
-* Unholy Nazi Prankster
+- Fegelarse
+- Fegelf\*ck
+- Master of Antics (self-proclaimed)
+- F-man
+- Unholy Nazi Prankster
 
 ^Block1
 
-* Nazi Germany (V-949)
-* League of Interdimensional Disruptors
+- Nazi Germany (V-949)
+- League of Interdimensional Disruptors
 
 ^Block2
 
-* SS-Standartenführer
-* SS-Gruppenführer
+- SS-Standartenführer
+- SS-Gruppenführer
 
 ^Block3
 
-* Waldemar Fegelein (brother)
-* Eva Braun (sister-in-law)
-* Adolf Hitler (brother-in-law)
+- Waldemar Fegelein (brother)
+- Eva Braun (sister-in-law)
+- Adolf Hitler (brother-in-law)
 
 ^Block4
 
