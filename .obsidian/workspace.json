@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein"
             }
+          },
+          {
+            "id": "9249623237dc4807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance"
+            }
+          },
+          {
+            "id": "b8fa010c906e22af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transclusion/Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
+                "file": "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314"
+              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance"
             }
           }
         ],
@@ -156,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5a1314b8a1528c0",
+  "active": "9249623237dc4807",
   "lastOpenFiles": [
-    "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
-    "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
     "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
+    "Transclusion/Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable.md",
+    "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
+    "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
     "Transclusion",
     "Note"
   ]
