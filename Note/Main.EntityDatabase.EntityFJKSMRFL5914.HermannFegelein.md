@@ -9,7 +9,7 @@
 > 
 > is designated a Class 4-Altazenon Reality Disruptive Criminal, charged with 181 offences such as:
 > 
-> - Unauthorized cosmic physical alterations
+> - Unauthorised cosmic physical alterations
 > - Involuntary biological interference on multiple lifeforms
 > - Malicious use of a reality-disrupting device against Ministry personnel or property
 > - Spatial-temporal continuum corruption
