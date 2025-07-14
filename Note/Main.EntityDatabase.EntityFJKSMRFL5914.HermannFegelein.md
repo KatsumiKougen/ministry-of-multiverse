@@ -27,4 +27,16 @@
 > 
 > ![[Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable#^Final]]
 
+> "I'm beyond fed up with his antics! Bring Fegelein to me! ***FEGELEIN!!! FEGELEIN!!! FEGELEIN!!!***"
+> 
+> *— V-949's Adolf Hitler, moments before his staged demise schemed by Fegelein*
+
+> "Ugh, take that arrogant jerk away from me."
+> 
+> *— Dr. Mazaw Khine*
+
+> "A man of his skills could be a real asset to the Ministry, especially on the toughest missions, but he seems to care only for his own amusement while we clean up his disasters."
+> 
+> *— Ensign Dyulag Gijigingino, MMS Alastor*
+
 #EntityDatabase #V949
