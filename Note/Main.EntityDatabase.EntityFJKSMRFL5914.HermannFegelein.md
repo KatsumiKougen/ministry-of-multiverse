@@ -16,7 +16,7 @@
 > - Acts of high terrorism against the Ministry
 > - Absence at mandated court appearance
 > 
-> This individual is a variant of Hans Otto Georg Hermann Fegelein, a former NSDAP officer from Universe V-949, who fled his original timeline circa 1945 (date 99.56.83.6.9.3598.69241350) and joined the League of Interdimensional Disruptors, an organisation committed to sabotaging Ministry operations via reality-warping pranks.
+> This individual is a variant of Hans Otto Georg Hermann Fegelein, a former NSDAP officer from Universe V-949, who fled his original timeline in 1945 (date 99.56.83.6.9.3598.69241350) and joined the League of Interdimensional Disruptors, an organisation committed to sabotaging Ministry operations via reality-warping pranks.
 > 
 > Notable crimes include attacks on Base Prompto in Void Cluster 8981.67, the surprise "Birthday Brawl" at Base Pendragon-XII, and black hole generation in Universe C-3309973 which relocated that Earth to Void Cluster 7421.857.
 > 
@@ -38,5 +38,11 @@
 > "A man of his skills could be a real asset to the Ministry, especially on the toughest missions, but he seems to care only for his own amusement while we clean up his disasters."
 > 
 > *— Ensign Dyulag Gijigingino, MMS Alastor*
+
+**Entity FJKS-MRFL-5914** is a variant of Nazi SS-Gruppenführer Hermann Fegelein from Universe V-949. Like other Fegelein variants, he enlisted in the Reichswehr cavalry in 1925, joined the SS on April 10, 1933, led the SS Totenkopf Reiterstandarte, and conducted the Pripyat Marshes massacres in 1941. Heinrich Himmler later assigned him as Hitler's liaison and SS delegate. Fegelein was present during the July 20, 1944 assassination attempt on Hitler.
+
+In the war's last phase, Himmler—who understood multiverse theory—taught Fegelein to prank Hitler using reality-distorting tactics. On April 30, 1945[^1], they deceived Hitler into shooting himself—by instructing him to summon his "persona" to change the war's course. Both vanished from V-949 shortly thereafter.
+
+[^1]: 99.56.83.6.9.3598.69241350 in Loki-Archanfel notation.
 
 #EntityDatabase #V949
