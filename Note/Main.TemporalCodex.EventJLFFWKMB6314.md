@@ -114,3 +114,5 @@ As of now, no intelligent life forms have been spotted near the nebula found at 
 [^3]: The Dark Peninsula is a region in Antarctica where many of the universe's poorest and most destitute Earth populations lived, with little to no law enforcement. Half of Earth's most dangerous criminals were confined here. By 20██, these criminals had destroyed all prisons, massacred police, and crippled law enforcement, becoming feared warlords ruling the region by fear.
 
 [^4]: 58.46.7.117.25.2298.14922993 in Loki-Archanfel notation.
+
+#F71563 #TemporalCodex #TemporalCodex-Cataclysm #SplatoriumDreifarb
