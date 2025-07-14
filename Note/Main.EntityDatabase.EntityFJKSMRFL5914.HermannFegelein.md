@@ -43,6 +43,12 @@
 
 In the war's last phase, Himmler—who understood multiverse theory—taught Fegelein to prank Hitler using reality-distorting tactics. On April 30, 1945[^1], they deceived Hitler into shooting himself—by instructing him to summon his "persona" to change the war's course. Both vanished from V-949 shortly thereafter.
 
+Once escaped from V-949, Fegelein joined the League of Interdimensional Disruptors through Himmler's longstanding affiliations.
+
+Following his escape from Universe V-949, Fegelein joined the League of Interdimensional Disruptors, facilitated by Himmler’s longstanding ties to the group. He succeeded in the Prankster Gangster's challenge[^2] on 198.8.31.3.6.8448.23546778, officially joining the ranks of the LID. Over time, he built trust with the league's high-ranking members.
+
 [^1]: 99.56.83.6.9.3598.69241350 in Loki-Archanfel notation.
+
+[^2]: The Prankster Gangster's challenge is a rite of passage for LID recruits, requiring them to prank one million lifeforms within a universe in under 1,000 cycles. Fegelein achieved this by creating one million circular potholes beneath the victims' feet in just 989.78 cycles.
 
 #EntityDatabase #V949
