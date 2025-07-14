@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance"
+              "title": "Main.TemporalCodex.EventJLFFWKMB6314"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
+                "file": "Main.TemporalCodex.EventJLFFWKMB6314.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance"
+              "title": "Outline of Main.TemporalCodex.EventJLFFWKMB6314"
             }
           }
         ],
@@ -173,7 +173,7 @@
   },
   "active": "256f5e9faf7e927d",
   "lastOpenFiles": [
-    "Main.TemporalCodex.EventJLFFWKMB6314.md",
-    "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md"
+    "Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
+    "Main.TemporalCodex.EventJLFFWKMB6314.md"
   ]
 }

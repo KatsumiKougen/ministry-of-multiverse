@@ -23,13 +23,15 @@
 >     newTab: false
 > ```
 
+```sheet
 |              Type | Cataclysm                                              |
 | -----------------:|:------------------------------------------------------ |
 |         Intensity | 6-Kazuraba                                             |
 |          Universe | F-71563                                                |
 | Date of occurence | 15.30.66.1.6.1059.26609417 *(Loki-Archanfel notation)* |
-|                   | 3-5-7-8576.9561101 *(Margulis-Archanfel notation)*     |
-|                   | 19 May, ████ *(F-71563's notation)*                    |
+|                 ^ | 3-5-7-8576.9561101 *(Margulis-Archanfel notation)*     |
+|                 ^ | 19 May, ████ *(F-71563's notation)*                    |
+```
 
 **Event JLFF-WKMB-6314** is a level 6-Kazuraba hyper-physical large-scale apocalyptic event, generally manifesting as the destruction of a planet. Specifically, it involves the planet K-905778—referred to as "Earth" within Universe F-71563—ending its existence by emitting a glowing white light, leading to total devastation. This catastrophic event is tentatively hypothesised—and somewhat confirmed—to be a rebellious act by the dominant species, *Homo sapiens*, against one of the Ministry of Multiverse's ancient foes, Gog and Magog.
 
