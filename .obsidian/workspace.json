@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein"
             }
+          },
+          {
+            "id": "441efe1b8968a3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transclusion/Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable"
+            }
           }
         ]
       }
@@ -172,9 +186,9 @@
   },
   "active": "aa49b33d6bf4f0dc",
   "lastOpenFiles": [
-    "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
-    "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
     "Transclusion/Transclusion.Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.InfoboxTable.md",
+    "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
+    "Note/Main.TemporalCodex.EventJLFFWKMB6314.CheckClearance.md",
     "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
     "Transclusion",
     "Note"
