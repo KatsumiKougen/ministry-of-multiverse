@@ -51,7 +51,7 @@ Following his escape from Universe V-949, Fegelein joined the League of Interdim
 
 [^2]: The Prankster Gangster's challenge is a rite of passage for LID recruits, requiring them to prank one million lifeforms within a universe in under 1,000 cycles. Fegelein achieved this by creating one million circular potholes beneath the victims' feet in just 989.78 cycles.
 
-Fegelein, among the LID's most dependable members, has built his reputation on several notable semi-malicious reality-altering incidents classified between 2-Hancock and 3-Meteora categories. His antics cover a broad spectrum, including minor gags like manifesting banana peels to cause slips, to extreme gravitational manipulation resulting in a 2-Utonium physical break event in Paris of one universe, where roughly 85% of the population was lifted from the ground to outer space.
+Fegelein, among the LID's most dependable members, has built his reputation on several notable semi-malicious reality-altering incidents classified between 2-Hancock and 3-Meteora categories. His "antics" cover a broad spectrum, including minor gags like manifesting banana peels to cause slips, to extreme gravitational manipulation resulting in a 2-Utonium physical break event in Paris of one universe, where roughly 85% of the population was lifted from the ground to outer space.
 
 Though details remain vague, the Ministry asserts that the core reason behind Fegelein's "antics" is schadenfreude—he finds joy in provoking irritation and distress among those he targets.
 
