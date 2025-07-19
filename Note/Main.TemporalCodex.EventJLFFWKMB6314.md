@@ -25,7 +25,7 @@
 
 |              Type | Cataclysm                                              |
 | -----------------:|:------------------------------------------------------ |
-|         Intensity | 6-Kazuraba                                             |
+|          Category | 6-Kazuraba                                             |
 |          Universe | F-71563                                                |
 | Date of occurence | 15.30.66.1.6.1059.26609417 *(Loki-Archanfel notation)* |
 |                   | 3-5-7-8576.9561101 *(Margulis-Archanfel notation)*     |
