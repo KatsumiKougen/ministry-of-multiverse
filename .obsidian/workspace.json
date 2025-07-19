@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40849dcd6602e08c",
+        "id": "5a146a4f22d959e4",
         "type": "tabs",
         "children": [
           {
-            "id": "aa49b33d6bf4f0dc",
+            "id": "6c68b42434f42062",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +171,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa49b33d6bf4f0dc",
+  "active": "6c68b42434f42062",
   "lastOpenFiles": [
     "Note/Main.TemporalCodex.EventJLFFWKMB6314.md",
     "Note/Main.EntityDatabase.EntityFJKSMRFL5914.HermannFegelein.md",
